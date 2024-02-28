@@ -9,8 +9,8 @@ const signup = async (req, res) => {
     port: 2587,
     secure: false,
     auth: {
-      user: "FlqdspsVMJYSuFnvBLX6iY0nYJ6JWrGq",
-      pass: "LpsqTbFHYcUYsLOcootn0AD9OTgEcdCK",
+      user: "",
+      pass: "",
     },
   };
 
@@ -45,8 +45,8 @@ const getbill = (req, res) => {
     port: 2587,
     secure: false,
     auth: {
-      user: "FlqdspsVMJYSuFnvBLX6iY0nYJ6JWrGq",
-      pass: "LpsqTbFHYcUYsLOcootn0AD9OTgEcdCK",
+      user: "",
+      pass: "",
     },
   };
 
